@@ -23,7 +23,8 @@ Find my tutorials here <br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaikumar-iOSDev&count_private=true&layout=compact&theme=dark" alt="">
 
-<div align="center" width="50">
+
+<div align="right" width="50">
 
 <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/giphy-2.webp" alt="Welcome!" width="200"/>
 
