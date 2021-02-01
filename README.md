@@ -8,10 +8,10 @@
 
 </div>
 
-<div align="left">
+<div align="center">
 
-Explore all the repos🕵🏽‍♀️.<h4>
-Take whatever you want, If you need me create an issue or write to me <a href="mailto:writetorajai@outlook.com"><b>here</b></a>. <h4>
+<h3>Explore all the repos🕵🏽‍♀️.</h3>
+Take whatever you want. If you need help on a repo, create an issue or write to me <a href="mailto:writetorajai@outlook.com"><b>here</b></a>. <h4>
 
 Find my tutorials here <br>
 
