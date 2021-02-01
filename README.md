@@ -32,7 +32,7 @@ Find my tutorials here <br>
 </div>
 
 <div align="center">
-<h2> <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Joket-batman-bye.gif" width="100px"> Talk less, code more <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Jigsaw-bye.gif" width="50px"></h2>
+<i>Talk less, code more🧑🏽‍💻!</i> 😊
 </div>
 
 <!--
