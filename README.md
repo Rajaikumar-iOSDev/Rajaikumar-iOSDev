@@ -1,10 +1,10 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 minions <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/tenor.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 minions <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/tenor.gif" width="80px"></h2>
 </div>
 
 <div align="center" width="50">
 
-<img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/giphy.webp" alt="Welcome!" width="300"/>
+<img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/giphy.webp" alt="Welcome!" width="500"/>
 
 </div>
 
