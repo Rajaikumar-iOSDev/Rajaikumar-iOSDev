@@ -31,9 +31,9 @@ Find my tutorials here <br>
 
 </div>
 <img align="center" alt="iOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
-<img align="center" alt="macOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
-<img align="center" alt="watchOS" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/watchos1.jpeg?raw=true" />
-<img align="center" alt="tvOS" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/appletv.png?raw=true" />
+<img align="center" alt="SwiftUI" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/swiftui.png?raw=true" />
+<img align="left" alt="CoreData" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coredata.png?raw=true" />
+<img align="left" alt="AVFoundation" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/avfoundation.png?raw=true" />
 <img align="center" alt="Xcode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
 <img align="center" alt="Instruments" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/instruments.png?raw=true" />
 <img align="center" alt="AppStore" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/appstore.png?raw=true" />
