@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<h3>Explore all the repos🕵🏽‍♀️.</h3>
+<h3>Wel come to Rajai's Github🙏🏽.</h3>
 Take whatever you want. If you need help on a repo, create an issue or write to me <a href="mailto:writetorajai@outlook.com"><b>here</b></a>. <h4>
 
 Find my tutorials here <br>
@@ -19,18 +19,27 @@ Find my tutorials here <br>
 <a href="https://rajaikumar.medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=50></a> 
 
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rajaikumar-iOSDev&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajaikumar-iOSDev&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaikumar-iOSDev&count_private=true&layout=compact&theme=dark" alt="">
 
 
 
-<div align="right" width="50">
+<div align="center" width="50">
 
 <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/giphy-2.webp" alt="Welcome!" width="200"/>
 
 </div>
-
+<img align="left" alt="iOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
+<img align="left" alt="macOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
+<img align="left" alt="watchOS" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/watchos1.jpeg?raw=true" />
+<img align="left" alt="tvOS" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/appletv.png?raw=true" />
+<img align="left" alt="Xcode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
+<img align="left" alt="Instruments" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/instruments.png?raw=true" />
+<img align="left" alt="AppStore" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/appstore.png?raw=true" />
+<img align="left" alt="Swift" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
+<img align="left" alt="Objective-C" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
+<img align="left" alt="CocoaTouch" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/cocoatouch.png?raw=true" />
 <div align="center">
 <h4><i>Talk less, code more!</i> </h4>🧑🏽‍💻 😊
 </div>
