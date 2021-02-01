@@ -8,9 +8,9 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
-Explore all the repos. <h4>
+Explore all the repos🕵🏽‍♀️.<h4>
 Take whatever you want, If you need me create an issue or write to me <a href="mailto:writetorajai@outlook.com"><b>here</b></a>. <h4>
 
 Find my tutorials here <br>
