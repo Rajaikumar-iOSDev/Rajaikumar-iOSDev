@@ -8,6 +8,18 @@
 
 </div>
 
+<div align="center">
+
+Explore all the repos. <br>
+Take whatever you want, raise issues and submit PRs if you think something could be better. <br>
+Find my tutorials here <br>
+
+
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+---
+[![HitCount](http://hits.dwyl.com/Rajaikumar-iOSDev/KoalaActivityIndicatorExample.svg)](http://hits.dwyl.com/Rajaikumar-iOSDev/KoalaActivityIndicatorExample)
+
+
 <!--
 **Rajaikumar-iOSDev/Rajaikumar-iOSDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
