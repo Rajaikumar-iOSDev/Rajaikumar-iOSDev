@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 minions <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/tenor.gif" width="30px"></h2>
+</div>
+
+![alt text](https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/giphy.webp)
 
 <!--
 **Rajaikumar-iOSDev/Rajaikumar-iOSDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
