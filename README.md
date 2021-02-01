@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<h3>Wel come to Rajai's Github🙏🏽.</h3>
+<h3>Welcome to Rajai kumar's Github🙏🏽.</h3>
 Take whatever you want. If you need help on a repo, create an issue or write to me <a href="mailto:writetorajai@outlook.com"><b>here</b></a>. <h4>
 
 Find my tutorials here <br>
