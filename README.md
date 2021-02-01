@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/giphy.webp" alt="Welcome!" width="500"/>
+<img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/giphy.webp" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -20,6 +20,12 @@ Find my tutorials here <br>
 
 ---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajaikumar-iOSDev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajai's Github Stats">
+---
+<div align="center" width="50">
+
+<img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/giphy-2.webp" alt="Welcome!" width="300"/>
+
+</div>
 
 <!--
 **Rajaikumar-iOSDev/Rajaikumar-iOSDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
