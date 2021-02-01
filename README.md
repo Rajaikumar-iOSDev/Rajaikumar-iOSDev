@@ -23,6 +23,7 @@ Find my tutorials here <br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaikumar-iOSDev&count_private=true&layout=compact&theme=dark" alt="">
 
+<h3>Talk less, code more🧑🏽‍💻.</h3>
 
 <div align="right" width="50">
 
