@@ -31,9 +31,9 @@ Find my tutorials here <br>
 
 </div>
 
-<div align="right">
-<h3>Talk less, code more🧑🏽‍💻.</h3>
-  </div>
+<div align="center">
+<h2> <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/tenor-2.gif" width="100px"> Talk less, code more <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/tenor.gif" width="80px"></h2>
+</div>
 
 <!--
 **Rajaikumar-iOSDev/Rajaikumar-iOSDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
