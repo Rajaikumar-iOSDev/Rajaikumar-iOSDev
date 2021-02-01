@@ -32,7 +32,7 @@ Find my tutorials here <br>
 </div>
 
 <div align="center">
-<i>Talk less, code more🧑🏽‍💻!</i> 😊
+<h4><i>Talk less, code more!</i> </h4>🧑🏽‍💻 😊
 </div>
 
 <!--
