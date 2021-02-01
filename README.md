@@ -31,7 +31,7 @@ Find my tutorials here <br>
 
 </div>
 
-<div align="center">
+<div align="right">
 <h3>Talk less, code more🧑🏽‍💻.</h3>
   </div>
 
