@@ -11,7 +11,7 @@
 <div align="center">
 
 Explore all the repos. <br>
-Take whatever you want, raise issues and submit PRs if you think something could be better. <br>
+Take whatever you want, If you need me create an issue or wrte to me <a href="mailto:writetorajai@outlook.com"><b>here</b></a>. <br>
 
 Find my tutorials here <br>
 
