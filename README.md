@@ -10,8 +10,8 @@
 
 <div align="center">
 
-Explore all the repos. <br>
-Take whatever you want, If you need me create an issue or wrte to me <a href="mailto:writetorajai@outlook.com"><b>here</b></a>. <br>
+Explore all the repos. <h4>
+Take whatever you want, If you need me create an issue or write to me <a href="mailto:writetorajai@outlook.com"><b>here</b></a>. <h4>
 
 Find my tutorials here <br>
 
@@ -19,7 +19,9 @@ Find my tutorials here <br>
 <a href="https://rajaikumar.medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=50></a> 
 
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajaikumar-iOSDev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajai's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajaikumar-iOSDev&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajai's Github Stats">
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaikumar-iOSDev&count_private=true&layout=compact&theme=dark)
 
 <div align="center" width="50">
 
