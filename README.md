@@ -23,7 +23,10 @@ Find my tutorials here <br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaikumar-iOSDev&count_private=true&layout=compact&theme=dark" alt="">
 
+<div align="center" width="50">
+<img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/giphy-2.webp" alt="Cowboy code!" width="100"/>
 
+</div>
 
 
 <img align="center" alt="iOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
@@ -37,10 +40,7 @@ Find my tutorials here <br>
 <img align="center" alt="Objective-C" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
 <img align="center" alt="CocoaTouch" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/cocoatouch.png?raw=true" />
 
-<div align="center" width="50">
-<img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/giphy-2.webp" alt="Cowboy code!" width="200"/>
 
-</div>
 <div align="center">
 <h4><i>Talk less, code more!</i> </h4>🧑🏽‍💻 😊
 </div>
