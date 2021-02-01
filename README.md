@@ -23,15 +23,17 @@ Find my tutorials here <br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaikumar-iOSDev&count_private=true&layout=compact&theme=dark" alt="">
 
-<div align="center">
-<h3>Talk less, code more🧑🏽‍💻.</h3>
-  </div>
+
 
 <div align="right" width="50">
 
 <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/giphy-2.webp" alt="Welcome!" width="200"/>
 
 </div>
+
+<div align="center">
+<h3>Talk less, code more🧑🏽‍💻.</h3>
+  </div>
 
 <!--
 **Rajaikumar-iOSDev/Rajaikumar-iOSDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
