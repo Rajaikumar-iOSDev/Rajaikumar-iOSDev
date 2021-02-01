@@ -11,7 +11,7 @@
 <div align="center">
 
 <h3>Welcome to Rajai kumar's Github🙏🏽.</h3>
-Clone it! Fork it! just leave a star at the end. If you need help on a repo, create an issue or write to me <a href="mailto:writetorajai@outlook.com"><b>here</b></a>. <h4>
+Clone it! Fork it! b just leave a star at the end. If you need help on a repo, create an issue or write to me <a href="mailto:writetorajai@outlook.com"><b>here</b></a>. <h4>
 
 Find my tutorials here <br>
 
