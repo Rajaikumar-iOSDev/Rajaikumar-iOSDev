@@ -1,10 +1,10 @@
 <div align="center">
-<h2> <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/tenor-2.gif" width="100px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 minions <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/tenor.gif" width="80px"></h2>
+<h2> <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Gifs/Alien-Hello.gif" width="100px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 minions <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Gifs/BabyYoda-Hello.gif" width="80px"></h2>
 </div>
 
 <div align="center" width="50">
 
-<img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/giphy.webp" alt="Welcome!" width="300"/>
+<img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Gifs/Minion-Coding.webp" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -24,7 +24,7 @@ Find my tutorials here <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaikumar-iOSDev&count_private=true&layout=compact&theme=dark" alt="">
 
 <div align="center" width="50">
-<img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/giphy-2.webp" alt="Cowboy code!" width="100"/>
+<img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Gifs/Cowboy-Coding.webp" alt="Cowboy code!" width="100"/>
 
 </div>
 
