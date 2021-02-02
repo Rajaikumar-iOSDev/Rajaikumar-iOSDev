@@ -29,16 +29,16 @@ Find my tutorials here <br>
 </div>
 
 
-<img align="center" alt="iOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
-<img align="center" alt="SwiftUI" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/swiftui.png?raw=true" />
-<img align="center" alt="CoreData" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coredata.png?raw=true" />
-<img align="center" alt="AVFoundation" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/avfoundation.png?raw=true" />
-<img align="center" alt="Xcode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
-<img align="center" alt="Instruments" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/instruments.png?raw=true" />
-<img align="center" alt="AppStore" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/appstore.png?raw=true" />
-<img align="center" alt="Swift" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="center" alt="Objective-C" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
-<img align="center" alt="CocoaTouch" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/cocoatouch.png?raw=true" />
+<img align="center" alt="iOS" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/avfoundation.png" />
+<img align="center" alt="SwiftUI" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/cocoatouch.png?raw=true" />
+<img align="center" alt="CoreData" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/coredata.png?raw=true" />
+<img align="center" alt="AVFoundation" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/instruments.png?raw=true" />
+<img align="center" alt="Xcode" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/ios.png" />
+<img align="center" alt="Instruments" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/objective-c.png?raw=true" />
+<img align="center" alt="AppStore" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/spritekit.png?raw=true" />
+<img align="center" alt="Swift" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/swift.png" />
+<img align="center" alt="Objective-C" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/swiftui.png" />
+<img align="center" alt="CocoaTouch" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/xcode.png?raw=true" />
 
 
 <div align="center">
