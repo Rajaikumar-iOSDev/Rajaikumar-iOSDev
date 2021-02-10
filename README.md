@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<h3>Welcome to Rajai kumar's Github🙏🏽.</h3>
+<h3>Welcome to my Github🙏🏽.</h3>
 Clone it! Fork it! but just leave a star at the end to be updated on the repo. 
 If you need help on a repo, create an issue or write to me <a href="mailto:writetorajai@outlook.com"><b>here</b></a>. <h4>
 
