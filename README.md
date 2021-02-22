@@ -14,7 +14,7 @@
 Clone it! Fork it! but just leave a star at the end to be updated on the repo. 
 If you need help on a repo, create an issue or write to me <a href="mailto:writetorajai@outlook.com"><b>here</b></a>. <h4>
 
-<h3>Find my tutorials here </h3>
+<h3>Find my tutorials here👇🏽</h3>
 
 
 <a href="https://rajaikumar.medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=50></a> 
@@ -28,18 +28,6 @@ If you need help on a repo, create an issue or write to me <a href="mailto:write
 <img src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Gifs/Cowboy-Coding.webp" alt="Cowboy code!" width="100"/>
 
 </div>
-
-
-<img align="center" alt="iOS" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/avfoundation.png" />
-<img align="center" alt="SwiftUI" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/cocoatouch.png?raw=true" />
-<img align="center" alt="CoreData" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/coredata.png?raw=true" />
-<img align="center" alt="AVFoundation" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/instruments.png?raw=true" />
-<img align="center" alt="Xcode" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/ios.png" />
-<img align="center" alt="Instruments" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/objective-c.png?raw=true" />
-<img align="center" alt="AppStore" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/spritekit.png?raw=true" />
-<img align="center" alt="Swift" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/swift.png" />
-<img align="center" alt="Objective-C" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/swiftui.png" />
-<img align="center" alt="CocoaTouch" height="40px" src="https://github.com/Rajaikumar-iOSDev/Rajaikumar-iOSDev/blob/main/Badges/xcode.png?raw=true" />
 
 
 <div align="center">
