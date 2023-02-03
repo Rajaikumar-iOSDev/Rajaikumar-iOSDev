@@ -14,7 +14,7 @@
 Clone it! Fork it! but just leave a star at the end to be updated on the repo. 
 If you need help on a repo, create an issue or write to me <a href="mailto:writetorajai@outlook.com"><b>here</b></a>. <h4>
 
-<h3>Find my writings here👇🏽</h3>
+<h3>Find my write-ups here👇🏽</h3>
 
 
 <a href="https://rajaikumar.medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=50></a> 
